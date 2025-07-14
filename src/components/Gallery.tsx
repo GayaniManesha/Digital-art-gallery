@@ -43,7 +43,7 @@ export const Gallery = () => {
       id: 5,
       title: 'Cyber Awakening',
       artist: 'Liam Vector',
-      image: 'https://i.postimg.cc/zG6Vf6v8/Trippin-on-the-Mainframe-cybercore-cyberwave-cyberart-cybertribe-cybervibe.jpg',
+      image: 'https://i.postimg.cc/vZy2HLT2/Chat-GPT-Image-Jul-14-2025-08-56-40-PM.png',
       category: 'Mixed Media',
       link: '/artwork/cyber-awakening'
     },
